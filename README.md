@@ -11,3 +11,6 @@ functionality:
 - scraapping movies types and titles
 - check for duplicates
 - upload it to mongodb database
+
+
+![card](https://github-readme-stats.vercel.app/api/pin?username=BDR-PRO&repo=egy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
