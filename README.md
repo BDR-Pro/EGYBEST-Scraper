@@ -5,6 +5,9 @@
 + A Part of Ananasa Project
 ```
 
+[Ananasa Project](https://github.com/BDR-Pro/ananasa-project)
+
+
 A simple python script to scrape egy for Diret link to stream
 functionality:
 - search for different movies types
